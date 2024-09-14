@@ -1,0 +1,74 @@
+{
+    "source_decks": [
+        "Wanikani Ultimate 3: Tokyo Drift",
+        "Core2k6k (No Image)",
+        "Core 10k"
+    ],
+    "source_notetypes": [
+        "Wanikani Ultimate 3",
+        "Japanese-noim",
+        "Core 10K"
+    ],
+
+    "source_cardtypes": [
+        "Reading",
+        0,
+        0
+    ],
+
+    "custom_type_fields":[
+        "Card_Type",
+        0,
+        0
+    ],
+
+    "custom_type_field_content":[
+        "Vocabulary",
+        0,
+        0
+    ],
+
+    "source_fields":[
+        [
+            "Audio",
+            "Context_Sentences",
+            0,
+            0,
+            "Meaning"
+        ],
+        [
+            "Vocabulary-Audio",
+            "Expression",
+            "Sentence-Audio",
+            "Sentence-English",
+            "Vocabulary-English"
+        ],
+        [
+            "vocab-audio",
+            "sentence",
+            "sentence-audio",
+            "sentence-translation",
+            "vocab-translation"
+        ]
+    ],
+
+    "fields_to_search_in":[
+        "Characters",
+        "Vocabulary-Kanji",
+        "vocab"
+    ],
+
+    "destination_deck": "vocabulary",
+
+    "destination_notetype": "My Vocab",
+
+    "destination_fields": [
+        "Word Audio",
+        "ExampleJapanese",
+        "Sentence Audio",
+        "ExampleEnglish",
+        "Meaning"
+    ],
+
+    "search_field": "Word"
+}
